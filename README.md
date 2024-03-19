@@ -21,20 +21,5 @@ The below is a description on each file.
 
 
 # Abstract
-  Homotopy Type Theory (abbreviated to HoTT) is a new field of mathematics lying on
-the intersection of homotopy theory in mathematics and type theory in computer science.
-Type theory is a sort of formal system like first order logic (on which ZFC set theory is
-based), which originated from Russell’s book, Principia Mathematica, and was developed
-independently by computer scientists and logicians to present. The word "type theory"
-may refer to the common framework shared by formal systems belonging to this field, or
-may refer to each individual formal system. HoTT is a formal system as one of those
-individual formal systems, and HoTT itself contains various phenomena that can be in-
-terpreted homotopically, enabling it to be a new foundation of mathematics related to
-homotopy theory. In particular, type theory has the advantage of being easy to be trans-
-planted into computers, and through this many proofs of homotopy theory have already
-been formalized with the language of HoTT in proof assistants such as Agda and Coq.
-In summary, HoTT is a new formal system with the ease of computer implementation,
-which can synthetically explore homotopy theory. Since the informal descriptions of this
-new theory have already been introduced in good textbooks, this paper addresses how
-the definitions and theorems of this formal system can be formalized in the Agda proof
-assistant. Especially, it aims to formalize that the fundamental group of $S^1$ is equal to $\mathbb{Z}$.
+
+    Homotopy Type Theory (abbreviated to HoTT) is a new field of mathematics lying on the intersection of homotopy theory in mathematics and type theory in computer science. Type theory is a sort of formal system like first order logic (on which ZFC set theory is based), which originated from Russell’s book, Principia Mathematica, and was developed independently by computer scientists and logicians to present. The word "type theory" may refer to the common framework shared by formal systems belonging to this field, or may refer to each individual formal system. HoTT is a formal system as one of those individual formal systems, and HoTT itself contains various phenomena that can be interpreted homotopically, enabling it to be a new foundation of mathematics related to homotopy theory. In particular, type theory has the advantage of being easy to be transplanted into computers, and through this many proofs of homotopy theory have already been formalized with the language of HoTT in proof assistants such as Agda and Coq. In summary, HoTT is a new formal system with the ease of computer implementation, which can synthetically explore homotopy theory. Since the informal descriptions of this new theory have already been introduced in good textbooks, this paper addresses how the definitions and theorems of this formal system can be formalized in the Agda proof assistant. Especially, it aims to formalize that the fundamental group of $S^1$ is equal to $\mathbb{Z}$.
