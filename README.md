@@ -15,7 +15,7 @@ The below is a description on each file.
 
 * **thesis-4-ua.lagda.md** : Axiomatize the univalence axiom.
 
-* **thesis-4-hit.lagda.md** : Declare the homotopy pushout as a higher inductive type and define n-dimensional circles.
+* **thesis-4-hit.lagda.md** : Declare the homotopy pushout as a higher inductive type and define n-dimensional spheres.
 
 * **thesis-5.lagda.md** : Prove that the fundamental group of the circle is $\mathbb{Z}$ by constructing the universal cover.
 
